@@ -1,0 +1,9 @@
+# NEXUS White Hat Hacking Toolkit
+# Python 3.6+ required
+
+# No external Python packages required for core functionality
+# All tools are system-level applications that need to be installed separately
+
+# For development/testing (optional):
+# pytest>=7.0.0
+# pylint>=2.0.0
